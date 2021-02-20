@@ -17,6 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## TO-DO
 
-- ~~ add more features ~~
-- ~~ Deploy the app online ~~
+- ~~add more features~~
+- ~~Deploy the app online~~
 - hosted on: https://react-musico.netlify.app/
